@@ -1,0 +1,9 @@
+/Users/Brian/Projects/Examples_Program/Examples_Program/obj/x86/Debug/Examples_Program.csprojAssemblyReference.cache
+/Users/Brian/Projects/Examples_Program/Examples_Program/obj/x86/Debug/Examples_Program.csproj.CoreCompileInputs.cache
+/Users/Brian/Projects/Examples_Program/Examples_Program/bin/Debug/Examples_Program.exe
+/Users/Brian/Projects/Examples_Program/Examples_Program/bin/Debug/Examples_Program.pdb
+/Users/Brian/Projects/Examples_Program/Examples_Program/obj/x86/Debug/Examples_Program.exe
+/Users/Brian/Projects/Examples_Program/Examples_Program/obj/x86/Debug/Examples_Program.pdb
+/Users/Brian/Documents/Projects/Lab_7/Lab_7/bin/Debug/Examples_Program.exe
+/Users/Brian/Documents/Projects/Lab_7/Lab_7/obj/x86/Debug/Examples_Program.csprojAssemblyReference.cache
+/Users/Brian/Documents/Projects/Lab_7/Lab_7/obj/x86/Debug/Examples_Program.csproj.CoreCompileInputs.cache
